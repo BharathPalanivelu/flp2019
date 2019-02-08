@@ -1,4 +1,4 @@
-<properties>
+  <properties>
     <java.version>1.8</java.version>
   
    <slf4j.version>1.7.5</slf4j.version>
@@ -21,7 +21,7 @@
 <dependency>
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-entitymanager</artifactId>
-  <version>4.3.6.Final</version>
+  <version>5.2.10.Final</version>
   
 </dependency>
   <!-- Database -->
@@ -47,4 +47,3 @@
       </plugin>
     </plugins>
   </build>
-  
